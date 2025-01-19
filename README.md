@@ -25,7 +25,8 @@
 - 打开 Meowtopia 小程序 [https://t.me/Meowtopia_Kaiabot/](https://t.me/Meowtopia_Kaiabot/myapp?startapp=687123588)
 
 - 在游戏中找到设置/齿轮图标，点击并复制你的 ID
-    ![id](./img/image-1.png)
+
+![image](https://github.com/user-attachments/assets/a5e01f90-fda0-4c81-b741-67f877dc57b6)
 
 ## 安装步骤
 
