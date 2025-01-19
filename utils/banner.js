@@ -13,4 +13,4 @@ export const banner = `
 *  请勿出售或用于盈利目的                 *
 ** ====================================== **
            
-* Github 链接: https://github.com/guihaihua/lumao/meowBot            `;
+* Github 链接: https://github.com/0xbaiwan `;
