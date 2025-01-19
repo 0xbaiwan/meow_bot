@@ -55,7 +55,21 @@
 5. 运行脚本：
     ```sh
     npm run start
+ 
     ```
+## 更新代码
+
+1. 拉取最新代码：
+   ```bash
+   git pull origin main
+   ```
+
+2. 如果遇到冲突：
+   ```bash
+   git stash
+   git pull origin main
+   git stash pop
+   ```
 
 ## 购买代理（可选）
 
