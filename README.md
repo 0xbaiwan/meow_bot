@@ -1,4 +1,4 @@
-# Meowtopia 机器人
+# Meowtopia 自动化机器人
 
 ![banner](./img/image.png)
 欢迎来到 Meowtopia！进入一个充满魔法的世界，可爱的猫咪们正在等待它们的英雄 - 你！拯救稀有猫咪，打造温馨家园，展示你的独特风格。
@@ -81,3 +81,6 @@
    - [922proxy](https://www.922proxy.com/register?inviter_code=d6416857)
    - [Proxy-Cheap](https://app.proxy-cheap.com/r/Pd6sqg)
    - [Infatica](https://dashboard.infatica.io/aff.php?aff=580)
+- 付费动态IP代理
+   - [IPRoyal](https://iproyal.com/?r=733417)
+
